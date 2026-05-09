@@ -12,50 +12,31 @@
 
 ## 🚀 About Me
 
-I’m an A-Level student passionate about **Computer Science, Engineering, AI, Robotics, and Drone Technology**.
+I’m an A-Level student passionate about **Computer Science, Engineering, AI, Robotics, Mathematics, Physics, and FPV Drone Technology**.
 
-I enjoy building real projects, learning new technologies, solving difficult problems, and improving my skills through programming, maths, physics, and hands-on engineering.
+I enjoy taking part in challenging competitions and problem-solving events, including the **BAO, BIO, Raspberry Pi Coding Challenge, Bebras Computational Challenge, SMC, IMC, Maclaurin Mathematical Olympiad, UKROC, UKSDC, and TNTB**. These experiences have helped me develop stronger logical thinking, teamwork, creativity, and technical problem-solving skills.
+
+I’m also interested in building real-world projects, especially around **programming, AI, full stack development, drones, and engineering systems**.
 
 ---
-## 🌐 Links & GitHub Stats
 
-<table>
-<tr>
-<td width="35%" valign="top">
+## Links
 
-### Links
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rayan-altaf-a66a94218/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
+</a> &nbsp;&nbsp;
 
 <a href="https://www.glidesk.com">
 <img src="https://img.shields.io/badge/Glidesk-Website-2D3092?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<br><br>
+</a> &nbsp;&nbsp;
 
 <a href="https://github.com/rayan2008">
 <img src="https://img.shields.io/badge/GitHub-rayan2008-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-<td width="65%" valign="top">
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rayan2008&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan2008&layout=compact&theme=github_dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
@@ -68,6 +49,23 @@ I enjoy building real projects, learning new technologies, solving difficult pro
 - Cybersecurity  
 - Maths, Physics, and Problem Solving  
 - Building Useful Real-World Projects  
+
+---
+
+
+## 📊 Current Stats
+
+<div align="center">
+
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayan2008&theme=tokyonight" />
+
+<br>
+
+<img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayan2008&theme=tokyonight" />
+
+<img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayan2008&theme=tokyonight" />
+
+</div>
 
 ---
 
